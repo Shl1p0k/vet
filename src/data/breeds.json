@@ -1,0 +1,22 @@
+[
+  { "id": "labrador", "name": "Лабрадор-ретривер" },
+  { "id": "german-shepherd", "name": "Немецкая овчарка" },
+  { "id": "golden-retriever", "name": "Золотистый ретривер" },
+  { "id": "bulldog", "name": "Бульдог" },
+  { "id": "beagle", "name": "Бигль" },
+  { "id": "poodle", "name": "Пудель" },
+  { "id": "rottweiler", "name": "Ротвейлер" },
+  { "id": "yorkshire-terrier", "name": "Йоркширский терьер" },
+  { "id": "dachshund", "name": "Такса" },
+  { "id": "siberian-husky", "name": "Сибирский хаски" },
+  { "id": "chihuahua", "name": "Чихуахуа" },
+  { "id": "pug", "name": "Мопс" },
+  { "id": "shih-tzu", "name": "Ши-тцу" },
+  { "id": "pomeranian", "name": "Померанский шпиц" },
+  { "id": "maine-coon", "name": "Мейн-кун" },
+  { "id": "british-shorthair", "name": "Британская короткошёрстная" },
+  { "id": "persian", "name": "Персидская" },
+  { "id": "scottish-fold", "name": "Шотландская вислоухая" },
+  { "id": "sphynx", "name": "Сфинкс" },
+  { "id": "bengal", "name": "Бенгальская" }
+]

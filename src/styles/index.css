@@ -1,0 +1,8 @@
+@import './variables.css';
+@import './global.css';
+@import '../blocks/header/header.css';
+@import '../blocks/sidebar/sidebar.css';
+@import '../blocks/pet-card/pet-card.css';
+@import '../blocks/news-card/news-card.css';
+@import '../blocks/button/button.css';
+@import '../blocks/modal/modal.css';

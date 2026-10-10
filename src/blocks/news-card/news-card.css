@@ -1,0 +1,24 @@
+.news-card {
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.news-card__date {
+  font-size: 13px;
+  color: var(--color-text-muted);
+}
+
+.news-card__title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.news-card__text {
+  font-size: 14px;
+  color: var(--color-text-muted);
+}
